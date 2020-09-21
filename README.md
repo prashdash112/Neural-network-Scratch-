@@ -1,2 +1,2 @@
 # Neural-network-Scratch-
-This repository contain neural network file (build from scratch), activation functions & cost functions.
+This repository contain implementation of artificial neural network, activation functions & cost functions from scratch.
